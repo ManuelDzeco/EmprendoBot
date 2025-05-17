@@ -1,0 +1,11 @@
+# Ambiente Python
+genai/
+genai\
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Credenciais e configurações locais
+.env
+credenciais\emprendobot-credentials.json
+credenciais/
